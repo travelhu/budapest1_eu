@@ -1,0 +1,361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buda",
+				"budapest1_eu"
+			],
+			[
+				"bud",
+				"budapesti-renta_eu"
+			],
+			[
+				"L",
+				"Lobster"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"f",
+				"ff	font-family"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"le",
+				"less"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"co",
+				"col	color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"b",
+				"bg	background"
+			],
+			[
+				"e",
+				"eth0"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 212.0,
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"p",
+				"Project: Edit"
+			],
+			[
+				"find",
+				"FindKeyConflicts: (Direct) Conflicts to Buffer"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"findk",
+				"FindKeyConflicts: Single Package Conflicts"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"g",
+				"Gist: Insert Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pl",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"plac",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"pla",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"place",
+				"Snippet: dl - Placeholder"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Fetch: Manage"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				"s",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"cd",
+				"Cdnjs: Import Script"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"",
+				"Cdnjs: Import Script"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitHub: Switch Accounts"
+			],
+			[
+				"gith",
+				"GitHub: Public Gist from Selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 261.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/programs-config/web_projects/alterations/Text/Alterations.html",
+		"/D/nginx/html/budapest-renta_eu/index.html",
+		"/D/nginx/conf/nginx.conf",
+		"/D/nginx/logs/error.log",
+		"/D/nginx/logs/budapesti-renta_tk.access.log",
+		"/D/nginx/html/budapest-renta_tk/index.html",
+		"/D/nginx/html/budapest-renta_tk/less/font-awesome.less",
+		"/D/nginx/html/budapest-tailor/index.html",
+		"/G/Pscx-2.1.1/Pscx/ReleaseNotes.txt",
+		"/G/ReleaseNotes (1).txt",
+		"/G/ReleaseNotes.txt",
+		"/C/WINDOWS/system32/drivers/etc/hosts",
+		"/C/Documents and Settings/Administrator/.gitconfig",
+		"/D/nginx/logs/budapesti-renta_eu.access.log",
+		"/D/nginx/html/budapest-tailor/alterations.html",
+		"/D/nginx/html/budapest-tailor/about.html",
+		"/D/nginx/html/budapest-tailor/css/user.css",
+		"/Y/Как запустить.txt",
+		"/D/nginx/html/budapest-tailor/.git/COMMIT_EDITMSG",
+		"/D/nginx/html/budapest-tailor/curtain.html",
+		"/D/programs-config/web_projects/alterations/Text/Classified.html",
+		"/D/nginx/html/budapest-tailor/tailoring.html",
+		"/D/nginx/html/budapest-tailor/pricelist.html",
+		"/G/CodeIgniter_2.1.3/license.txt",
+		"/C/Documents and Settings/Administrator/Application Data/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/docume~1/admini~1/locals~1/temp/sublime-sftp-browse-1361710240/st2_5.231.30.213/home/vladimir/budapest-tailor_eu/css/user.css",
+		"/C/docume~1/admini~1/locals~1/temp/sublime-sftp-browse-1361710283/st2_5.231.30.213/home/vladimir/budapest-tailor_eu/index.html",
+		"/C/docume~1/admini~1/locals~1/temp/sublime-sftp-browse-1361740416/st2_5.231.30.213/home/vladimir/budapest-tailor_eu/about.html",
+		"/C/docume~1/admini~1/locals~1/temp/sublime-sftp-browse-1361740919/st2_5.231.30.213/home/vladimir/budapest-tailor_eu/contact.html",
+		"/g/test.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"=\"\">",
+			"Article01",
+			"=\"\">",
+			"\"></",
+			"Button",
+			"@",
+			"href",
+			"#",
+			"row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row-fluid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 97.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.sftp":
+	{
+		"height": 39.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Documents and Settings/Administrator/Desktop/ST2-Projects/less/less.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true
+}
