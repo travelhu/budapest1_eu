@@ -5,12 +5,16 @@
 .hero-unit{
         box-shadow: 10px 10px 20px #002424;
         background-image: url(../img/budapest.jpg);
-        border:10px solid red; 
+        border:1px solid #fff; 
         
     }  
 
 .hero-unit h1{
         color: white;
+}
+
+.hero-unit p{
+    color:#fff;
 }
 
 
