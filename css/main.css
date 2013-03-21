@@ -4,7 +4,8 @@
 
 .hero-unit{
         box-shadow: 10px 10px 20px #002424;
-        background-image: url(img/budapest-950x292.jpg); 
+        background-image: url(..img/budapest-950x292.jpg);
+        border-right: 5px, red; 
         
     }  
 
